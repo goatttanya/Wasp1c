@@ -1,1 +1,191 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Гонка за эликсиром - Тактика</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #1a1a1a;
+            color: #e0e0e0;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #262626;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+        }
+        h1 {
+            color: #ffcc00;
+            text-align: center;
+            border-bottom: 2px solid #ffcc00;
+            padding-bottom: 10px;
+            text-transform: uppercase;
+        }
+        h2 {
+            color: #00ccff;
+            margin-top: 30px;
+            border-left: 5px solid #00ccff;
+            padding-left: 10px;
+        }
+        h3 {
+            color: #ff6666;
+        }
+        .time-alert {
+            background-color: #3d3d1a;
+            border: 1px solid #ffcc00;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 15px 0;
+            font-weight: bold;
+        }
+        .important-block {
+            background-color: #332222;
+            border: 1px solid #ff4444;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 15px 0;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .highlight {
+            color: #ffcc00;
+            font-weight: bold;
+        }
+        .blue-team {
+            color: #3399ff;
+            font-weight: bold;
+        }
+        .red-team {
+            color: #ff3333;
+            font-weight: bold;
+        }
+        .image-placeholder {
+            background-color: #111;
+            border: 2px dashed #444;
+            padding: 20px;
+            text-align: center;
+            margin: 20px 0;
+            border-radius: 5px;
+            color: #888;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            color: #666;
+            font-size: 0.9em;
+            border-top: 1px solid #444;
+            padding-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Гонка за эликсиром</h1>
+        
+        <h2>Этап подготовки</h2>
+        <div class="time-alert">
+            ⏰ За 5 минут до начала события, в 22:55 по МСК основной группе зайти через Особые события в событие "Гонка за эликсиром".
+        </div>
+        <p><span class="highlight">Резервная группа</span> ждет начала события в 23:00, так как раньше вас не запустит.</p>
+        
+        <p>Основная группа, у вас есть ровно 5 минут до начала события, чтобы успеть протыкать все настройки, потому делаем все быстро по следующей тактике:</p>
+        <ul>
+            <li>Заходим и сразу тыкаем в значок шестеренки слева для настройки отрядов.</li>
+            <li>Для ударного первого отряда выставляем самых сильных героев (на первой линии два танка (серый значок щита), на второй линии двух ДД (серый значок две молнии вниз) и одного героя класса поддержка (серый значок с бутылкой)).</li>
+            <li>Во второй и третий отряд кидаем по одному самому хреновому герою, которые у вас есть (самые нубские неодетые бомжи, можно даже голубых).</li>
+            <li>Далее устанавливаем оборону, для этого выходим из настройки отряда и тыкаем в значок щита – слева, где тыкали шестеренку. Снимаем галки «Присоединиться к обороне» у второго и третьего отряда. У первого основного боевого отряда галку ставим.</li>
+        </ul>
 
+        <div class="image-placeholder">🖼️ [Здесь отображается скриншот настройки отрядов и включенной обороны]</div>
+
+        <h2>Битва</h2>
+        <p>Ровно в 23:00 нас кидает на поле боя.</p>
+        <p>Мы <span class="blue-team">синие – слева</span>, враги <span class="red-team">красные – справа</span>.</p>
+        
+        <div class="image-placeholder">🗺️ [Здесь отображается общая карта локации с названиями строений]</div>
+        
+        <div class="important-block">
+            🎯 <strong>Наша цель:</strong> захватить и удержать Замок эликсира (в центре) и не сдохнуть!
+        </div>
+        <p>Но так как строения будут появляться по таймингам, до этого времени делаем строго так, как написано ниже.</p>
+
+        <h2>Битва – Фаза 1</h2>
+        <p>В первые 10 минут на карте появятся: Врата миграции, Наблюдательный пункт, Лечебные палатки и Алхимические мастерские.</p>
+        <p> Можно использовать телепорты для перемещения вашей базы ближе к нужной точке, но имейте в виду, что перезарядка телепорта – 2 минуты (в случае захвата врат миграций – 1 минута).</p>
+        
+        <h3>Распределение на Фазу 1:</h3>
+        <ul>
+            <li><span class="highlight">8distemper8 и Elizabety</span> – Врата миграции</li>
+            <div class="image-placeholder">📍 [Карта: Врата миграции]</div>
+            
+            <li><span class="highlight">Lapidu и Linalinalina</span> – Наблюдательный пункт</li>
+            <div class="image-placeholder">📍 [Карта: Наблюдательный пункт]</div>
+            
+            <li><span class="highlight">МАРШАЛ и Курносик97</span> – Лечебная палатка 1</li>
+            <li><span class="highlight">AlhiMik и OdinokiEnotik</span> – Лечебная палатка 2</li>
+            <li><span class="highlight">Magoff и Володенька137</span> – Лечебная палатка 3</li>
+            <li><span class="highlight">Wasp1c и hawk999</span> – Лечебная палатка 4</li>
+            <div class="image-placeholder">📍 [Карта: Расположение Лечебных палаток 1, 2, 3, 4]</div>
+            
+            <li><span class="highlight">RavilRed и HamsterSiti26</span> – Алхимическая мастерская 1</li>
+            <li><span class="highlight">Dimchick61 и ВСЕ КТО НЕ СВОБОДЕН</span> – Алхимическая мастерская 2</li>
+            <div class="image-placeholder">📍 [Карта: Алхимические мастерские 1 и 2]</div>
+        </ul>
+
+        <div class="time-alert" style="background-color: #3a1a1a; border-color: #ff4444;">
+            ⚠️ Через 10 минут после окончания первой фазы – регрупп. Следите за временем!
+        </div>
+
+        <h2>Битва – Фаза 2</h2>
+        <p>На карте открываются: Замок эликсира, Руины войны, Проклятый алтарь.</p>
+        
+        <h3>Распределение на Фазу 2:</h3>
+        <ul>
+            <li><span class="highlight">8distemper8, Elizabety, Wasp1c</span> – Замок эликсира</li>
+            <div class="image-placeholder">📍 [Карта: Замок эликсира]</div>
+            
+            <li><span class="highlight">Lapidu, OdinokiEnotik, МАРШАЛ</span> – Врата миграции</li>
+            <div class="image-placeholder">📍 [Карта: Врата миграции - Фаза 2]</div>
+        </ul>
+        
+        <p><span class="highlight">ВСЕ ОСТАЛЬНЫЕ</span>, не задействованные в удержании стратегически важных объектов, на текущей фазе захватывают то, что на мини-карте подсвечивается красным.</p>
+        
+        <div class="important-block" style="background-color: #223322; border-color: #44ff44;">
+            ℹ️ <strong>Для информации (точки не в приоритете, но полезные):</strong>
+            <ul>
+                <li><span class="highlight">Проклятый алтарь</span> — снижает атаку, здоровье и защиту всех вражеских воинов на 15%.</li>
+                <li><span class="highlight">Реликвия войны</span> — повышает все характеристики ваших войск на 15%.</li>
+            </ul>
+        </div>
+        <div class="image-placeholder">📍 [Карта: Проклятый алтарь и Реликвия войны]</div>
+
+        <p>При захвате зданий, вокруг них будут появляться аптечки – отправляйте туда свои не боевые отряды для сбора очков.</p>
+        <div class="image-placeholder">📍 [Карта: Появление аптечек вокруг зданий]</div>
+
+        <h2>Битва – Фаза 3 (сбор и удержание)</h2>
+        <p>Делаем все то же самое, что делали на предыдущей фазе +</p>
+        <p>⏳ На <span class="highlight">13-й минуте</span> битвы появятся лагеря с запасом трав – также направляйте туда отряды на сбор для получения очков.</p>
+        <div class="image-placeholder">📍 [Карта: Лагеря с запасом трав]</div>
+
+        <div class="time-alert" style="background-color: #222; border-color: #666; text-align: center;">
+            🏁 Все мероприятие по длительности занимает полчаса. Потому 30 минут позора и все свободны)))<br>
+            Всем спасибо, кто дочитал до конца! 👍
+        </div>
+        
+        <div class="footer">
+            Страница тактики создана автоматически на основе скриншотов и руководства.
+        </div>
+    </div>
+</body>
+</html>
